@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://github.com/MinosJ/Minos.github.io.git"
+baseURL = "https://minosj.github.io/Minos.github.io/"
 languageCode = "en-us"
 theme = "ananke"
 publishDir = "docs"
