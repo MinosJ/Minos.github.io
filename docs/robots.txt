@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://minosjy.com/sitemap.xml
+Sitemap: https://Minos.github.io/Minos.github.io-/sitemap.xml
