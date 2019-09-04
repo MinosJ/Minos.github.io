@@ -2,6 +2,7 @@ baseURL = "https://minosjy.com"
 languageCode = "en-us"
 title = "LeaveIt"
 theme = "LeaveIt"
+publishDir = "docs"
 
 paginate = 12
 enableEmoji = true
