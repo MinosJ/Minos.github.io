@@ -1,4 +1,5 @@
-baseURL = "https://Minos.github.io/"
+baseURL = "https://Minos.github.io/Minos.github.io-/"
+
 languageCode = "en-us"
 title = "LeaveIt"
 theme = "LeaveIt"
